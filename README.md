@@ -6,7 +6,7 @@ Weather App
 
 This is an app which shows you various statistics regarding the weather for your location. 
 
-I created this app when I was learning to use React in order to learn how to create a more complex application.
+I created this app (when I was learning to use React) by following a tutorial, in order to learn how to create a more complex application.
 
 
 **Author**
