@@ -2,7 +2,7 @@ Weather App
 ===========
 
 
-<img src="https://user-images.githubusercontent.com/93347177/158181639-387ef012-55c0-48db-bde2-9bc05310df3a.PNG" width="150px"><br/>
+<img src="https://user-images.githubusercontent.com/93347177/158181639-387ef012-55c0-48db-bde2-9bc05310df3a.PNG" width="500px"><br/>
 
 This is an app which shows you various statistics regarding the weather for your location. 
 
